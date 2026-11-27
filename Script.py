@@ -20,7 +20,7 @@ class script(object):
 
 <b>➠ Notice 📙:-</b>
 
-<b>✯ Dont Spam Me...🤒</b>
+<b>✯ Dont Spam Me..🤒</b>
 
 <b>➠ Maintained By : <a href="http://t.me/abhiram_vf">AR⚡</a></b>
     """
